@@ -18,7 +18,7 @@ Mover todas as pessoas do lado esquerdo para o lado direito, obedecendo às segu
 - A canoa exige ao menos __uma pessoa a bordo para atravessar__.
 
 <p align="center">
-  <img width="650" src="./ExemploCanoa.png">
+  <img width="650" src="./.imgs/ExemploCanoa.png">
 </p>
 
 __Resposta:__ (_Seguindo a sequência de ações:_)
@@ -329,7 +329,8 @@ Representam letras, símbolos ou frases.
 
 <hr>
 
-<h3>Carcteres de escape</h3>
+<h3>🧩 Carcteres de escape</h3>
+
 Caracteres de escape são __símbolos especiais__ usados dentro de strings para representar ações ou caracteres que __não podem ser digitados diretamente__ ou que têm funções especiais, como pular uma linha, adicionar tabulação, inserir aspas dentro do texto, entre outros.
 
 Eles sempre começam com uma barra invertida `\`, seguida por __um ou mais caracteres.__
