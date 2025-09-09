@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="250" src="./.imgs/python-logo-.png">
+  <img width="150" src="./.imgs/python-logo-.png">
 </p>
 
 <h1 align="center">🐍 PYTHON</h1>
